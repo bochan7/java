@@ -2,7 +2,7 @@
 
 public class DynInt{
 
-    public static void main(String[] args){
+    public static void main(String[] xyz){
         double a = 30.0,b=45.0;
         // c variable which will store the value will be initialized dyanamically 
         double c = Math.sqrt(a*a+b*b);
